@@ -149,13 +149,13 @@ specific audience.
 ![Customer Segmentation](Visuals/Customer_Segmentation.png)
 
 ### Industry Analysis
-![Industry Analysis](Visuals/Industry_Analysis.png)
-
-### Outlier Identification
-![Outlier identification](Visuals/Outlier_identification.png)
+![Industry Analysis](Visuals/Industry_analysis.png)
 
 ### ERP Analysis
 ![ERP Analysis](Visuals/ERP_Analysis.png)
+
+### Outlier Identification
+![Outlier Identification](Visuals/Outlier_identification.png)
 
 ## Recommendations
 
