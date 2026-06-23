@@ -140,22 +140,22 @@ The full dashboard is built across five pages, each designed for a
 specific audience.
 
 ### Executive Overview
-![Executive Overview](Visuals/01_Executive_Overview.png)
+![Executive Overview](Visuals/Executive_Overview.png)
 
 ### Revenue Economics
-![Revenue Economics](Visuals/02_Revenue_Economics.png)
+![Revenue Economics](Visuals/Revenue_Economics.png)
 
 ### Customer Segmentation
-![Customer Segmentation](Visuals/03_Customer_Segmentation.png)
+![Customer Segmentation](Visuals/Customer_Segmentation.png)
 
 ### Industry Analysis
-![Industry Analysis](Visuals/04_Industry_Analysis.png)
+![Industry Analysis](Visuals/Industry_Analysis.png)
 
 ### Outlier Identification
-![Outlier identification](Visuals/05_Outlier_identification.png)
+![Outlier identification](Visuals/Outlier_identification.png)
 
 ### ERP Analysis
-![ERP Analysis](Visuals/05_ERP_Analysis.png)
+![ERP Analysis](Visuals/ERP_Analysis.png)
 
 ## Recommendations
 
