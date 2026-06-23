@@ -134,7 +134,25 @@ transaction size):
 | High volume, slow processing | Retail | Operational opportunity |
 
 ---
+## Dashboard
 
+The full dashboard is built across five pages, each designed for a
+specific audience.
+
+### Executive Overview
+![Executive Overview](visuals/01_executive_overview.png)
+
+### Revenue Economics
+![Revenue Economics](visuals/02_revenue_economics.png)
+
+### Customer Segmentation
+![Customer Segmentation](visuals/03_customer_segmentation.png)
+
+### Industry Analysis
+![Industry Analysis](visuals/04_industry_analysis.png)
+
+### Recommendations
+![Recommendations](visuals/05_recommendations.png)
 ## Recommendations
 
 Three concrete actions, each tied to a specific pattern in the data:
