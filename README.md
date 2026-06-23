@@ -17,7 +17,7 @@ the transaction. A portion of that interchange is shared back to the
 customer as cashback, and the remainder is the platform's gross margin
 after processing costs.
 
-This project takes ~2,000 completed virtual card transactions over a
+This project takes 2,000 completed virtual card transactions over a
 four-month window and answers four questions a Card Line of Business
 team would actually need to answer:
 
